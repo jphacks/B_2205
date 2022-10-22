@@ -1,0 +1,157 @@
+@charset "utf-8";
+body{
+    background-color: #f7ffe6;
+}
+
+.anchoring {
+    background-color: #c0cca3;
+    width: 90%;
+    height: 90px;
+    padding: 25px 15px 0 15px;
+    margin: auto;
+    border-bottom: solid #63665c 5px;
+    z-index: 10;
+    position: fixed;
+    border-radius: 0 0 20px 20px;
+}
+
+.header-topic {
+    float: left;
+}
+.header-topic h1 {
+    color: black;
+    font-size: 20px;
+
+}
+
+.header-icon {
+    color: black;
+    width: 80px;
+    height: 80px;
+    margin: 0 80px 0 auto;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    font-size: small;
+    justify-content: center;
+}
+
+
+.btn-ex {
+    height: 200px;
+    width: 200px;
+    margin: 150px 60px 50px 60px;
+    border-radius: 35px;
+    font-size: 40px;
+    float: left;
+    margin-right: 30px;
+}
+
+.btn-ex-1 {
+    height: 200px;
+    width: 200px;
+    margin: 50px 60px;
+    border-radius: 35px;
+    font-size: 40px;
+}
+
+.color-btn1 {
+    background-color: #e5ccff;
+    border: none;
+}
+
+.color-btn2 {
+    background-color: #ccfff7;
+    border: none;
+}
+
+.color-btn3 {
+    background-color: #ffeecc;
+    border: none;
+}
+
+.color-btn4 {
+    background-color: #ffccf7;
+    border: none;
+}
+
+.color-btn5 {
+    background-color: #ffcccc;
+    border: none;
+}
+
+.under-information {
+    height: 100px;
+    background-color: darkcyan;
+    padding: 40px;
+    
+}
+
+.contact {
+    color: black;
+    background-color: transparent;
+    border: transparent;
+    margin: 10px 0;
+}
+
+.topic-right {
+    position: fixed;
+    left: 90%;
+    top: 25%;
+    z-index: 10;
+}
+
+.join-fin {
+    width: 90px;
+    height: 200px;
+    background-color: #7db312;
+    border-radius: 20px 0 0 20px;
+    border-color: #ffffff;
+}
+
+.join-fin p {
+    writing-mode: vertical-rl;
+}
+
+.my-topic {
+    width: 90px;
+    height: 200px;
+    background-color: #e6ff66;
+    margin-top: 30px;
+    border-radius: 20px 0 0 20px;
+    border-color: #ffffff;
+}
+
+.my-topic p {
+    writing-mode: vertical-rl;
+}
+
+hr {
+    margin: 200px 20px 30px 20px;
+    background-color: darkslateblue;
+    height: 6;
+}
+
+.room-access {
+    margin: 100px 0;
+    height: 70px;
+    width: 400px;
+    border-radius: 50px;
+    
+}
+
+.key {
+    width: 300px;
+    height: 70px;
+}
+
+.key1 {
+    width: 50px;
+    height: 70px;
+}
+
+.input-item form {
+    display: inline-block;
+    margin: 0 10px;
+}

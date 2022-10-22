@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.set{
+    border-bottom:1px;
+    border-color:#5fc;
+}
+
+.language{
+    background-color: #5fc;
+}
+
+div{
+    margin:0 auto;
+}
