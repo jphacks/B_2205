@@ -1,7 +1,7 @@
 # Political Debate Chat
 
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2022/08/JPHACKS2022_ogp.jpg)]("C:\Users\admin\Pictures\色々\スクリーンショット 2022-10-22 130217.png")
+[![IMAGE ALT TEXT HERE]("C:\Users\admin\Pictures\色々\スクリーンショット 2022-10-22 130217.png")]("C:\Users\admin\Pictures\色々\スクリーンショット 2022-10-22 130217.png")
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
