@@ -1,7 +1,7 @@
 # Political Debate Chat
 
 
-[![IMAGE ALT TEXT HERE]("https://www.youtube.com/watch?v=LUPQFB4QyVo")]("C:\Users\admin\Pictures\色々\スクリーンショット 2022-10-22 130217.png")
+[![IMAGE ALT TEXT HERE]("https://www.youtube.com/watch?v=LUPQFB4QyVo")]()
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
